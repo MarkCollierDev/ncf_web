@@ -1,0 +1,182 @@
+/*-----------------------------------------------------------
+               {-- General page styling --}
+----------------------------------------------------------*/
+
+html{
+    height:100%;
+}
+body{
+    height:100%;
+    overflow-x: hidden;
+    
+    background: red; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left top, #8A0404, #AE1212, #C41010, #FA5882); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #8A0404, #AE1212, #C41010, #FA5882); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #8A0404, #AE1212, #C41010, #FA5882); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #8A0404, #AE1212, #C41010, #FA5882); /* Standard syntax (must be last) */
+}
+
+p, h3 {
+    color : #ff4b03;
+}
+
+h1{
+    font-size: 30px;
+    color: #fff;
+    font-weight: Bold;
+}
+
+a, a:hover{
+    text-decoration: none;
+}
+
+#header{
+    border-bottom: solid 5px #3855e6;
+    height:60px;
+    padding: 0 ;
+    
+    background: #000099; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left top, #000099, #22e); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #000099, #22e); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #000099, #022e); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #000099, #22e); /* Standard syntax (must be last) */
+}
+
+#nav-bar{
+    background: #3855e6;
+    height: 40px;
+}
+
+#nav-list{
+    margin:0 0 0 90px;
+    /*margin-left:90px;*/
+    height: 100%;
+}
+
+.nav-item{
+    text-decoration: none;
+    border-right : solid 1px #40cbda;
+    list-style: none;
+    display: initial;
+    height:100%;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 10px 0 10px;
+    padding: 7px 10px 11px 13px;
+    color: #d7e8ef;
+}
+
+.nav-item:hover{
+    background: #40cbda;
+    display: initial;
+    margin: 0 10px 0 10px;
+}
+
+.parallax { 
+    /* The image used */
+    background-image: url("img_parallax.jpg");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*-----------------------------------------------------------
+                {-- Welcome page styling --}
+-----------------------------------------------------------*/
+
+.row-modual{
+    width:100%;
+    border-top: 2px solid #005f56;
+    border-bottom: 2px solid #005f56;
+    min-height: 200px;
+    
+    
+    background: #000099; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left top, #000099, #22e); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #000099, #22e); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #000099, #022e); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #000099, #22e); /* Standard syntax (must be last) */
+
+    
+    
+}
+
+
+
+
+// {--  club list   --}
+
+#club-logo-list{
+    margin-left: 4%;
+}
+
+#club-logo-list img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: solid 3px #2946A5;
+}
+
+#club-logo-list li{
+    list-style:none;
+    display: inline-block;
+    margin-right:7%;
+}
+
+#club-logo-list li.odd img{
+    margin-top:100px;
+}
+
+
+
+
+// {--  people list   --}
+
+.people-list li{
+    background:#fafaff;
+    border: 2px solid #009e8f;
+    list-style:none;
+    display: inline-block;
+    margin-right: 8%;
+    margin-bottom: 2%;
+}
+
+.people-list li img{
+    width: 120%;
+    padding: 3px;
+    background: #009e8f;
+    border: 2px solid #005f56;
+    margin-top:10px;
+}
+
+.people-list li p{
+    font-size: 13px;
+}
+
+.people-list li h3{
+    font-size:26px;
+    margin-bottom: 3px;
+}
+
+/*-----------------------------------------------------------
+                {-- sub page styling --}
+-----------------------------------------------------------*/
+
+
+.page-Content{
+    background: #D3CBCB;
+    width:100%;
+    border-top: 2px solid #A9A6A6;
+    border-bottom: 2px solid #A9A6A6;
+}
+
+
+/*-----------------------------------------------------------
+
+-----------------------------------------------------------*/
