@@ -55,5 +55,6 @@
         <script src="../js/Jquery/jquery-3.2.1.min.js"></script>
         <script src="../js/custom.js"></script>
 
+        @yield('js')
     </body>
 </html>

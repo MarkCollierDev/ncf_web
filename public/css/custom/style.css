@@ -164,6 +164,15 @@ a, a:hover{
     margin-bottom: 3px;
 }
 
+// {-- Map styling --}
+
+.smallMap {
+    border: aliceblue 5px solid;
+    border-radius: 15px;
+    width: 40%;
+    height: 30em;
+}
+
 /*-----------------------------------------------------------
                 {-- sub page styling --}
 -----------------------------------------------------------*/
@@ -178,5 +187,13 @@ a, a:hover{
 
 
 /*-----------------------------------------------------------
-
+                {- Who's Who page styling -}
 -----------------------------------------------------------*/
+
+.full-people-list ul li {
+    margin-top : 55px;
+}
+
+.full-people-list ul li IMG {
+    width : 95%;
+}

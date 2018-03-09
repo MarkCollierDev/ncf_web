@@ -18,3 +18,9 @@
 
 
 @endSection
+
+@section('js')
+<script src="../js/map.js"></script>
+<script async defer src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAOfC0dvVosGZH1KMjYHlrIt19WHnv_T4E&callback=initMap'></script>
+
+@endSection
