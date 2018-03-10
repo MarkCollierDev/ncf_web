@@ -16,7 +16,7 @@
             
             <div class="col-md-3" id="Title">
                 <a href='/'>
-                    <h1 id="title-text">WEBSITE TITLE</h1>
+                    <h1 id="title-text">NCF Church</h1>
                 </a>
             </div>
         </div>
