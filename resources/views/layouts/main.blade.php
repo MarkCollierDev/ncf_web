@@ -12,11 +12,11 @@
 <body>
 
 <div class="row" id="header">
-    <div class="col-md-1" id="Logo"></div>
+    <div class="col-md-1" id="Logo"><img src="../images/logo.png" alt=""></div>
 
-    <div class="col-md-3" id="Title">
+    <div class="col-md-4" id="Title">
         <a href='/'>
-            <h1 id="title-text">NCF Church</h1>
+            <h1 id="title-text">Newcastle Christian Fellowship</h1>
         </a>
     </div>
 </div>

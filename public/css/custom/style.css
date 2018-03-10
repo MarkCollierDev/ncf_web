@@ -74,6 +74,14 @@ a, a:hover {
     margin: 0 10px 0 10px;
 }
 
+#Logo img{
+    width: 93%;
+    border-radius: 53px;
+    background: aliceblue;
+    border: #44f solid 2px;
+    margin: 3px 10px;
+}
+
 .parallax {
     /* The image used */
 
@@ -194,4 +202,5 @@ a, a:hover {
     margin: 0 10px;
     padding: 5px;
     font-weight: 600;
+
 }

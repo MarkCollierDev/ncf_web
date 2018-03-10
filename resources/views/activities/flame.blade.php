@@ -1,7 +1,7 @@
 <div class="row-modual col-md-12">
 
 
-    <h1>flame</h1>
+    <h1>Flame</h1>
 
     <div class="activity">
         <p>Flame is our children's club which runs every Friday between 6-7.30pm for years 2-6 (Primary School). It is a

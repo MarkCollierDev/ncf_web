@@ -4,7 +4,7 @@
     <h1>Knit and natter</h1>
 
     <div class="activity">
-        <p>Every Thursday at 10.30am members of the church meet to knit, chat and encourage one another in there
+        <p>Every Thursday at 10.30am members of the church meet to knit, chat and encourage one another in their
             christian walk.</p>
     </div>
 </div>

@@ -1,7 +1,7 @@
 <div class="row-modual col-md-12">
 
 
-    <h1>blaze</h1>
+    <h1>Blaze</h1>
 
     <div class="activity">
         <p>Blaze is our Youth Group, which runs every Friday between 7.30-9pm for years 7-11 (secondary school).</p>
