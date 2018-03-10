@@ -1,7 +1,6 @@
-
 <div class="row-modual col-md-12">
 
-@yield('content')
+    @yield('content')
 
 
 </div>
