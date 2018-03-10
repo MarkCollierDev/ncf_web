@@ -19,6 +19,7 @@ body {
 
 p, h3 {
     color: #ff4b03;
+    line-height: 15px;
 }
 
 h1 {
@@ -39,7 +40,7 @@ a, a:hover {
     background: #000099; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left top, #000099, #22e); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(bottom right, #000099, #22e); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(bottom right, #000099, #022e); /* For Firefox 3.6 to 15 */
+    background: -moz-linear-gradient(bottom right, #000099, #22e); /* For Firefox 3.6 to 15 */
     background: linear-gradient(to bottom right, #000099, #22e); /* Standard syntax (must be last) */
 }
 
@@ -75,7 +76,6 @@ a, a:hover {
 
 .parallax {
     /* The image used */
-    background-image: url("img_parallax.jpg");
 
     /* Set a specific height */
     height: 500px;
@@ -100,17 +100,12 @@ a, a:hover {
     background: #000099; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left top, #000099, #22e); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(bottom right, #000099, #22e); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(bottom right, #000099, #022e); /* For Firefox 3.6 to 15 */
+    background: -moz-linear-gradient(bottom right, #000099, #22e); /* For Firefox 3.6 to 15 */
     background: linear-gradient(to bottom right, #000099, #22e); /* Standard syntax (must be last) */
 
 }
 
-/
-/
-{
-    --club list --
-}
-
+/*{    --club list --}*/
 #club-logo-list {
     margin-left: 4%;
 }
@@ -132,11 +127,7 @@ a, a:hover {
     margin-top: 100px;
 }
 
-/
-/
-{
-    --people list --
-}
+/*{    --people list --}*/
 
 .people-list li {
     background: #fafaff;
@@ -164,12 +155,7 @@ a, a:hover {
     margin-bottom: 3px;
 }
 
-/
-/
-{
-    --Map styling --
-}
-
+/*/{    --Map styling --}*/
 .smallMap {
     border: aliceblue 5px solid;
     border-radius: 15px;
@@ -193,10 +179,19 @@ a, a:hover {
                 {- Who's Who page styling -}
 -----------------------------------------------------------*/
 
-.full-people-list ul li {
+.full-people-list ul li, .full-people-list li  {
     margin-top: 55px;
 }
 
 .full-people-list ul li IMG {
     width: 95%;
+}
+
+.row-modual .activity {
+    background: white;
+    border: aliceblue 5px solid;
+    border-radius: 15px;
+    margin: 0 10px;
+    padding: 5px;
+    font-weight: 600;
 }
