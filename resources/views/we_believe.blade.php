@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <div class='parallax' style="background-image: url('../images/Page-Images/bible.jpeg');"></div>
+    <div class='parallax' style="background-image: url('../images/Page-Images/activities/bible.jpeg');"></div>
 
     <!--<div class='parallax' style="background-image: url('../images/parallax/1.jpg');"></div>-->
     <div class='page-Content'>
