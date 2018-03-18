@@ -74,7 +74,7 @@ a, a:hover {
     margin: 0 10px 0 10px;
 }
 
-#Logo img{
+#Logo img {
     width: 93%;
     border-radius: 53px;
     background: aliceblue;
@@ -176,18 +176,18 @@ a, a:hover {
                 {-- sub page styling --}
 -----------------------------------------------------------*/
 
-.page-Content {
-    background: #D3CBCB;
-    width: 100%;
-    border-top: 2px solid #A9A6A6;
-    border-bottom: 2px solid #A9A6A6;
-}
+/*.page-Content {*/
+    /*background: #D3CBCB;*/
+    /*width: 100%;*/
+    /*border-top: 2px solid #A9A6A6;*/
+    /*border-bottom: 2px solid #A9A6A6;*/
+/*}*/
 
 /*-----------------------------------------------------------
                 {- Who's Who page styling -}
 -----------------------------------------------------------*/
 
-.full-people-list ul li, .full-people-list li  {
+.full-people-list ul li, .full-people-list li {
     margin-top: 55px;
 }
 
@@ -195,7 +195,7 @@ a, a:hover {
     width: 95%;
 }
 
-.row-modual .activity {
+.row-modual .activity, #we-believe-content, #locationDetails {
     background: white;
     border: aliceblue 5px solid;
     border-radius: 15px;
@@ -204,3 +204,99 @@ a, a:hover {
     font-weight: 600;
 
 }
+
+
+/* what we beleive */
+
+#we-believe-content ul li.wwb-li{
+    margin-top: 50px;
+}
+
+#we-believe-content ul{
+    list-style: none;
+}
+
+.wwb-title {
+    font-weight: 700;
+    font-size:18px;
+}
+
+.wwb-title-sup {
+    text-decoration: underline;
+}
+
+.scriptures {
+    list-style: circle;
+    font-size: 12px;
+}
+
+.scriptures li {
+    font-style: italic;
+    display: inline-block;
+    width: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
