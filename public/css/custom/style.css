@@ -1,6 +1,14 @@
 /*-----------------------------------------------------------
                {-- General page styling --}
 ----------------------------------------------------------*/
+#site-notice {
+    background: #af4848;
+    font-size: 23px;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    padding: 3px;
+}
 
 html {
     height: 100%;
@@ -177,10 +185,10 @@ a, a:hover {
 -----------------------------------------------------------*/
 
 /*.page-Content {*/
-    /*background: #D3CBCB;*/
-    /*width: 100%;*/
-    /*border-top: 2px solid #A9A6A6;*/
-    /*border-bottom: 2px solid #A9A6A6;*/
+/*background: #D3CBCB;*/
+/*width: 100%;*/
+/*border-top: 2px solid #A9A6A6;*/
+/*border-bottom: 2px solid #A9A6A6;*/
 /*}*/
 
 /*-----------------------------------------------------------
@@ -205,20 +213,19 @@ a, a:hover {
 
 }
 
-
 /* what we beleive */
 
-#we-believe-content ul li.wwb-li{
+#we-believe-content ul li.wwb-li {
     margin-top: 50px;
 }
 
-#we-believe-content ul{
+#we-believe-content ul {
     list-style: none;
 }
 
 .wwb-title {
     font-weight: 700;
-    font-size:18px;
+    font-size: 18px;
 }
 
 .wwb-title-sup {

@@ -10,6 +10,8 @@
 
 </head>
 <body>
+<div id="site-notice" class="col-md-12">This site is still under development. thank you for your patience</div>
+
 
 <div class="row" id="header">
     <div class="col-md-1" id="Logo"><img src="../images/logo.png" alt=""></div>
