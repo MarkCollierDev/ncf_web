@@ -1,7 +1,7 @@
 @extends('layouts/main')
 
 @section('content')
-    <div class='parallax' style="background-image: url('../images/Parallax/people.jpg');"></div>
+    <div class='parallax' style="background-image: url('../images/Parallax/people.jpeg');"></div>
     <div class="row-modual col-md-12">
         <h1>Whos Who</h1>
         <ul class='full-people-list'>
