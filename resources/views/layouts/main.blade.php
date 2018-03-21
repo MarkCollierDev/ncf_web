@@ -3,6 +3,12 @@
 <head>
     <title>NCF</title>
 
+    <base href="http://www.ncfchurch.org.uk/" />
+    <meta name="robots" content="index, follow" />
+    <meta name="keywords" content="newcastle under lyme, church stoke, church newcastle, church staffs, god stoke, aog, pentecostal, christian, hartshill, churches in stoke, churches stoke, church stoke on trent, churches in stoke on trent, churches stoke on trent, church newcastle under lyme, churches in newcastle under lyme, churches newcastle under lyme, assemblies of god, assemblies of god movement" />
+    <meta name="description" content="Newcastle Christian Fellowship, NCF, is a lively church on the boundary of newcastle and stoke" />
+
+
     <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="../css/bootstrap/bootstrap.css">
     <link rel="stylesheet" href="../css/custom/style.css"/>
