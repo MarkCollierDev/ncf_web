@@ -52,6 +52,10 @@ a, a:hover {
     background: linear-gradient(to bottom right, #000099, #22e); /* Standard syntax (must be last) */
 }
 
+#title-text {
+    margin-left: 1em;
+}
+
 #nav-bar {
     background: #3855e6;
     height: 40px;
